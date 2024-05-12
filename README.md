@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Roy Nipon</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **npde js**
+- 🌱 I’m currently learning **node js**
 
 - 👨‍💻 All of my projects are available at [https://rahulroynipon.github.io/Portfolio/](https://rahulroynipon.github.io/Portfolio/)
 
