@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rahul Roy Nipon</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **npde js**
 
 - 👨‍💻 All of my projects are available at [https://rahulroynipon.github.io/Portfolio/](https://rahulroynipon.github.io/Portfolio/)
 
-- 💬 Ask me about **python, tailwind, javascript**
+- 💬 Ask me about **python, tailwind, javascript, reactjs**
 
 - 📫 How to reach me **rahulroynipon@gmail.com**
 
