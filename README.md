@@ -1,3 +1,10 @@
+
+[![](https://visitcount.itsvg.in/api?id=rahulroynipon&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 # 💫 About Me:
 - **Web Developer**
 - **Currently Learning:** Express, MongoDB
@@ -6,7 +13,7 @@
   - Backend: JavaScript (Node.js), Python, C
 - **Passionate About:** Building dynamic, responsive web applications
 - **Commitment:** Dedicated to continuous learning and skill enhancement
-
+- **Email:**  rahulroynipon@gamil.com
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/RahulR0YNipon) 
@@ -28,6 +35,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
+
 # 📊 GitHub Stats:
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
@@ -35,9 +43,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulroynipon&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="flex: 1 1 300px; margin: 10px;">
 </div>
 
----
-[![](https://visitcount.itsvg.in/api?id=rahulroynipon&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
