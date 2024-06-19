@@ -1,20 +1,41 @@
-<h1 align="center">Hi 👋, I'm Rahul Roy Nipon</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+# 💫 About Me:
+- **Web Developer**
+- **Currently Learning:** Express, MongoDB
+- **Skills:**
+  - Frontend: React, Tailwind CSS, Framer Motion, HTML, CSS
+  - Backend: JavaScript (Node.js), Python, C
+- **Passionate About:** Building dynamic, responsive web applications
+- **Commitment:** Dedicated to continuous learning and skill enhancement
 
-- 🌱 I’m currently learning **node js**
 
-- 👨‍💻 All of my projects are available at [https://rahulroynipon.github.io/Portfolio/](https://rahulroynipon.github.io/Portfolio/)
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/RahulR0YNipon) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rahulroynipon) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulroynipon) 
 
-- 💬 Ask me about **python, tailwind, javascript, reactjs**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) 
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-- 📫 How to reach me **rahulroynipon@gmail.com**
+# 📊 GitHub Stats:
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulroynipon&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="flex: 1 1 300px; margin: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulroynipon&theme=dark&hide_border=true" alt="GitHub Streak" style="flex: 1 1 300px; margin: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulroynipon&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="flex: 1 1 300px; margin: 10px;">
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100026489917048&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100026489917048&mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/rahulroynipon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rahulroynipon" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rahul_roy_nipon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rahul_roy_nipon" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=rahulroynipon&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
